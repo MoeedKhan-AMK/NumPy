@@ -55,3 +55,12 @@ Difference between:
 - np.vstack().
 - np.hstack().
 - np.delete().
+
+**10. ADVANCE OPERATION WITH BUSINESS EXAMPLE**
+- import matplotlib.pyplot as plt.
+- sales analysis.
+- np.sum().
+- np.min().
+- np.max().
+- np.mean().
+- Cumulative Sale and np.cumsum().
