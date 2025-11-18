@@ -48,3 +48,10 @@ Difference between:
 - Selecting elements using index lists.
 - np.where(condition) → get indices.
 - np.where(condition, x, y) → vectorized IF-ELSE.
+
+**9. COMBINING AND ARRAY COMPATIBILITY**
+- np.concatenate().
+- Shape Combatibility().
+- np.vstack().
+- np.hstack().
+- np.delete().
