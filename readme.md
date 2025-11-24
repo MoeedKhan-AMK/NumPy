@@ -64,3 +64,29 @@ Difference between:
 - np.max().
 - np.mean().
 - Cumulative Sale and np.cumsum().
+
+**11. VECTOR MATRIX ADDITION-MULTIPLICATION, DOT PRODUCT()**
+- vector-matrix addition
+- vector-matrix multiplication
+- dot product()
+
+**12. VECTORIZED OPERATION, BROADCASTING(), PRACTICE DIRECTORY**
+- vectorize function. vectorization.
+- unary functions.
+- binary functions.
+- sequential functions.
+- broadcasting function.
+
+**13. DATA TYPES, SAVING, LOADING, IMAGE DARK MODE CONVERTING**
+- Integer.
+- Floating Point Numbers.
+- Booleans.
+- Complex Numbers.
+- np.object.
+- np.unicode.
+- np.save()
+- np.load
+- numpy-logo-npy
+- .npy file format
+
+
